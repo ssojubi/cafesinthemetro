@@ -511,6 +511,14 @@
         justify-content: center;
     }
     
+    .hero-card{
+        height: 30vh;
+    }
+    .hero-image{
+        width: 60%;
+        height: auto;
+        margin-right: 0;
+    }
     .hero-cont {
         height: auto;
         margin-top: 70px;
@@ -551,14 +559,6 @@
     
     .nav-links {
         gap: 15px;
-    }
-    .hero-card{
-        height: 30vh;
-    }
-    .hero-image{
-        width: 60%;
-        height: auto;
-        margin-right: 0;
     }
     .hero-title h2 {
         font-size: clamp(1.6rem, 1.5vw + 1.1rem, 2.2rem);
