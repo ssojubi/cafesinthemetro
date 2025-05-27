@@ -512,13 +512,17 @@
     }
     
     .hero-card{
-        height: 30vh;
+        height: 50vh;
     }
     .hero-image{
         width: 60%;
         height: auto;
         margin-right: 0;
     }
+    .hero-image img {
+        width: 80%;
+        height: 30%;
+}
     .hero-cont {
         height: auto;
         margin-top: 70px;
