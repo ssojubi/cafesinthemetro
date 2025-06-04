@@ -546,6 +546,9 @@
         flex-direction: row;
         height: auto;
     }
+    .menu-main-title-cont {
+        margin-bottom: 10px;
+    }
     
     .first-half, .sec-half {
         flex: 1;
